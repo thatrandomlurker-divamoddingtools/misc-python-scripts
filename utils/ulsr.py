@@ -1,4 +1,5 @@
 #ulsr, stands for Undefined Length String Reader
+#standard usage would simply be ulsr.reader('opened file name here'), it should read at the current offset)
 
 bytes = []
 strings = []
